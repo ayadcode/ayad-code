@@ -162,8 +162,7 @@ export default function Home() {
                 I am Mohamed Ayad
               </span>
               <h1 className="hero_title" data-aos="fade-right">
-                Web Developer + <br />
-                <span className="typed-text">UI/UX Designer</span>
+                Web Developer <br />
               </h1>
               <div
                 className="hero_img_box heroimgbox"
@@ -182,7 +181,7 @@ export default function Home() {
               <div className="hero_btn_box" data-aos="fade-up">
                 <Link
                   href="/"
-                  download={"/img/resume.pdf"}
+                  download={"/Mohamed-Ayad.pdf"}
                   className="download_cv"
                   target="_blank"
                 >
@@ -191,7 +190,7 @@ export default function Home() {
                 <ul className="hero_social">
                   <li>
                     <a
-                      href="https://www.instagram.com/memoayad9/"
+                      href="https://www.instagram.com/ayadcode/"
                       target="_blank"
                     >
                       <FaInstagram />
@@ -199,7 +198,7 @@ export default function Home() {
                   </li>
                   <li>
                     <a
-                      href="https://www.facebook.com/mohamed.hussein.ayad.9/"
+                      href="https://www.facebook.com/ayadcode/"
                       target="_blank"
                     >
                       <FaFacebookF />
@@ -207,17 +206,14 @@ export default function Home() {
                   </li>
                   <li>
                     <a
-                      href="https://www.linkedin.com/in/mohamed-ayad-b84300268/"
+                      href="https://www.linkedin.com/in/ayadcode/"
                       target="_blank"
                     >
                       <GrLinkedinOption />
                     </a>
                   </li>
                   <li>
-                    <a
-                      href="https://github.com/mohamed-hussein-ayad"
-                      target="_blank"
-                    >
+                    <a href="https://github.com/ayadcode" target="_blank">
                       <FaGithub />
                     </a>
                   </li>

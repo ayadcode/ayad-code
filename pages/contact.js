@@ -118,7 +118,7 @@ export default function contact() {
                   <li>
                     <span>
                       <a
-                        href="https://www.linkedin.com/in/mohamed-ayad-b84300268/"
+                        href="https://www.linkedin.com/in/ayadcode/"
                         target="_blank"
                       ></a>
                       <GrLinkedin />
@@ -126,10 +126,7 @@ export default function contact() {
                   </li>
                   <li>
                     <span>
-                      <a
-                        href="https://github.com/mohamed-ayad-0"
-                        target="_blank"
-                      >
+                      <a href="https://github.com/ayadcode" target="_blank">
                         <FaGithub />
                       </a>
                     </span>

@@ -110,28 +110,22 @@ export default function Footer() {
           </div>
           <ul className="hero_social">
             <li>
-              <a href="https://www.instagram.com/memoayad9/" target="_blank">
+              <a href="https://www.instagram.com/ayadcode/" target="_blank">
                 <FaInstagram />
               </a>
             </li>
             <li>
-              <a
-                href="https://www.facebook.com/mohamed.hussein.ayad.9/"
-                target="_blank"
-              >
+              <a href="https://www.facebook.com/ayadcode/" target="_blank">
                 <FaFacebookF />
               </a>
             </li>
             <li>
-              <a
-                href="https://www.linkedin.com/in/mohamed-ayad-b84300268/"
-                target="_blank"
-              >
+              <a href="https://www.linkedin.com/in/ayadcode/" target="_blank">
                 <GrLinkedinOption />
               </a>
             </li>
             <li>
-              <a href="https://github.com/mohamed-hussein-ayad" target="_blank">
+              <a href="https://github.com/ayadcode" target="_blank">
                 <FaGithub />
               </a>
             </li>
