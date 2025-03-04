@@ -131,7 +131,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Ayad</title>
+        <title>AyadCode</title>
         <meta name="description" content="Mohamed Ayad - Personal Portfolio" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link
