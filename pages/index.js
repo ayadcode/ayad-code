@@ -132,7 +132,7 @@ export default function Home() {
     <>
       <Head>
         <title>AyadCode</title>
-        <meta name="description" content="Mohamed Ayad - Personal Portfolio" />
+        <meta name="description" content="AyadCode - Personal Portfolio" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link
           rel="shortcut icon"
